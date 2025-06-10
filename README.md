@@ -24,7 +24,7 @@ I'm an aspiring developer with a strong interest in technology, programming, and
 
 ## 📫 Let's Connect
 - Email: [pandeysulav7@gmail.com](mailto:pandeysulav7@gmail.com)
-- LinkedIn: [linkedin.com/in/pandeysulav](https://www.linkedin.com/in/pandeysulav)
+- LinkedIn: [linkedin.com/in/pandeysulav](www.linkedin.com/in/sulav-pandey-1b894332a)
 - GitHub: [github.com/pandeysulav](https://github.com/pandeysulav)
 
 ## 😄 Pronouns
